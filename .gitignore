@@ -35,6 +35,9 @@ yarn-error.log*
 /.pnpm-home/
 /.corepack/
 
+# WorkBuddy project data
+/.workbuddy-ai/
+
 # env files (can opt-in for committing if needed)
 .env*
 
